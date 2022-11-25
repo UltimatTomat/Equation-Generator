@@ -1,6 +1,6 @@
 # Equation-Generator
 
-A program that generates random equations.
+A program that lets you generate random equations.
 
 If you have any questions about the program, 
 feel free to contact @Ultimat_Tomat on Instagram!
